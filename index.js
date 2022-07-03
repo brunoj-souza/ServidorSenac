@@ -1,1 +1,1 @@
-console.log("mensagem inicial!")
+console.log("Hello world!")
